@@ -4,7 +4,7 @@ Hi 👋 My name is Thanut Nittayawan
 I graduated from Srinakharinwirot University with a major in Educational Technology and a double major in Computer Education.
 
 * 🌍  I'm based in Bangkok ,Thailand
-* ✉️  You can contact me at [destpergamer@gmail.com](mailto:destpergamer@gmail.com)
+* ✉️  You can contact me at [thanut.nittayawan@gmail.com](mailto:thanut.nittayawan@gmail.com)
 * 🧠  I'm currently learning NodeJS ,React.JS
 
 <p align="left">
