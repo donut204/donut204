@@ -53,15 +53,6 @@ Current interests include:
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donut204&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut204&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
