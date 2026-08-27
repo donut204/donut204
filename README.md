@@ -1,16 +1,79 @@
-Hi 👋 My name is Thanut Nittayawan
-==================================
+<div align="center">
 
-I graduated from Srinakharinwirot University with a major in Educational Technology and a double major in Computer Education.
+# Hi, I'm Thanut 👋
 
-* 🌍  I'm based in Bangkok ,Thailand
-* ✉️  You can contact me at [thanut.nittayawan@gmail.com](mailto:thanut.nittayawan@gmail.com)
-* 🧠  I'm currently learning NodeJS ,React.JS
+### Educational Technology × Web Development × IT
+
+Based in Bangkok, Thailand 🇹🇭
+
+I enjoy building practical digital tools, learning modern web technologies, and turning ideas into simple, useful experiences.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Graduated from **Srinakharinwirot University**
+  - Major: **Educational Technology**
+  - Double Major: **Computer Education**
+- 🌍 Based in **Bangkok, Thailand**
+- 🚀 Currently working with **React, Vite, Firebase, and Node.js**
+- 🧠 Always learning more about **Web Development, IT Infrastructure, and Cybersecurity**
+- ✉️ Contact: [thanut.nittayawan@gmail.com](mailto:thanut.nittayawan@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+  <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,firebase,python,php,html,css,mysql,git,github,vscode" alt="Tech Stack" />
 </p>
 
-### Socials
+### Currently Exploring
 
-<p align="left"> <a href="https://www.github.com/donut204" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/donut8790" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌱 What I'm Working On
+
+I’m focused on building internal tools and web applications that make information easier to organize, search, and use.
+
+Current interests include:
+
+- Web applications with **React + Vite**
+- Cloud data with **Firebase / Firestore**
+- Workflow automation
+- IT infrastructure and networking
+- Cybersecurity fundamentals
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donut204&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut204&layout=compact&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/donut204">
+    <img src="https://img.shields.io/badge/GitHub-donut204-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ✨
+
+</div>
